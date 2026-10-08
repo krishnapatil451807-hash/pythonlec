@@ -1,0 +1,12 @@
+text= "  this text is for test bro  "
+print("strip",text.strip())
+print("upper",text.upper())
+print("lower",text.lower())
+print("cpatilize",text.capitalize())
+print("replace",text.replace("bro","krishna"))
+print("split",text.split())
+print("partition",text.partition("is"))
+print("count",text.count("i"))
+print("find",text.find("for"))
+print("startwith",text.startswith("for"))
+print("endwith",text.endswith("for"))
